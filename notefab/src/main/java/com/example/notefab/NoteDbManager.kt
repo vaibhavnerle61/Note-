@@ -8,9 +8,7 @@ import android.database.sqlite.SQLiteOpenHelper
 import android.database.sqlite.SQLiteQueryBuilder
 import android.widget.Toast
 
-/**
- * Created by Pooja on 02-03-2018.
- */
+
 class NoteDbManager {
     private val dbName = "JSANotes"
     private val dbTable = "Notes"

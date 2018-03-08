@@ -1,8 +1,6 @@
 package com.example.notefab
 
-/**
- * Created by Pooja on 02-03-2018.
- */
+
 class Note {
     var id: Int? = null
     var title: String? = null
