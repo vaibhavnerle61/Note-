@@ -1,0 +1,45 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="108dp"
+        android:height="108dp"
+        android:viewportWidth="730.15875"
+        android:viewportHeight="730.15875">
+    <group android:translateX="135.07936"
+            android:translateY="135.07936">
+        <path
+            android:pathData="M230,0C103,0 0,103 0,230c0,99 62.5,183.3 150.2,215.8L447.3,154.5C416.1,64.6 330.6,0 230,0z"
+            android:fillColor="#FF7F4F"/>
+        <path
+            android:pathData="M98.9,394.5l51.3,51.3C175.1,455 201.9,460 230,460c127,0 230,-103 230,-230c0,-26.4 -4.5,-51.8 -12.7,-75.5l-86.2,-86.2L98.9,394.5z"
+            android:fillColor="#FF5419"/>
+        <path
+            android:pathData="M276.6,87.1l0,-38.8l-46.6,0l-15.5,38.8z"
+            android:fillColor="#C2FBFF"/>
+        <path
+            android:pathData="M183.4,48.3h46.6v38.8h-46.6z"
+            android:fillColor="#FFFFFF"/>
+        <path
+            android:pathData="M214.8,371.7l15.2,22.8l131.1,0l0,-326.2l-59.1,0z"
+            android:fillColor="#38C6D9"/>
+        <path
+            android:pathData="M158,68.3l-59.1,0l0,326.2l131.1,0l0,-22.8z"
+            android:fillColor="#71E2F0"/>
+        <path
+            android:pathData="M206.7,88.3l23.3,286.2l111.1,0l0,-286.2z"
+            android:fillColor="#C2FBFF"/>
+        <path
+            android:pathData="M118.9,88.3h111.1v286.2h-111.1z"
+            android:fillColor="#FFFFFF"/>
+        <path
+            android:pathData="M230,68.3l-15.2,20l15.2,20l72,0l0,-40z"
+            android:fillColor="#71E2F0"/>
+        <path
+            android:pathData="M158,68.3h72v40h-72z"
+            android:fillColor="#C2FBFF"/>
+        <path
+            android:pathData="M321.2,220.9l-44.1,45l9.3,62.3l-56.4,-28.1l-22.3,-50.4l22.3,-95.1l29.1,55.9z"
+            android:fillColor="#FFC61B"/>
+        <path
+            android:pathData="M230,154.6l0,145.5l-56.4,28.1l9.3,-62.3l-44.1,-45l62.1,-10.4z"
+            android:fillColor="#FEE187"/>
+    </group>
+</vector>

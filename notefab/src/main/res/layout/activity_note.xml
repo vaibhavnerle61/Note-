@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="15dp">
+
+    <EditText
+        android:id="@+id/edtTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:hint="Enter Title"
+        android:inputType="textMultiLine"
+        android:textColor="#FF000000"
+        android:textSize="15sp"/>
+    <EditText
+        android:id="@+id/edtContent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:hint="Enter Note"
+        android:inputType="textMultiLine"
+        android:textColor="#FF000000"
+        android:textSize="15sp"/>
+
+    <Button
+        android:id="@+id/btAdd"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/LightGray"
+        android:text="Save"
+        android:textSize="18sp"
+        android:textColor="@color/White"
+        android:layout_gravity="bottom|end"/>
+</LinearLayout>
+
